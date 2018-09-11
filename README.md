@@ -27,3 +27,7 @@ Erase Functions:
    ESC[2J Clear screen and home cursor
    ESC[K Clear to end of line
 ```
+
+## Todo
+
+- [ ] add scrolling output from logging
